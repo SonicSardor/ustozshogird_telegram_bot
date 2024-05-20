@@ -1,0 +1,203 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-20 13:34+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: handlers/user_handlers.py:36 handlers/user_handlers.py:104
+msgid "Sherik kerak"
+msgstr ""
+
+#: handlers/user_handlers.py:37 handlers/user_handlers.py:96
+msgid "Ish joyi kerak"
+msgstr ""
+
+#: handlers/user_handlers.py:38 handlers/user_handlers.py:98
+msgid "Xodim kerak"
+msgstr ""
+
+#: handlers/user_handlers.py:39 handlers/user_handlers.py:102
+msgid "Ustoz kerak"
+msgstr ""
+
+#: handlers/user_handlers.py:40 handlers/user_handlers.py:100
+msgid "Shogird kerak"
+msgstr ""
+
+#: handlers/user_handlers.py:48
+msgid ""
+"{d1}:\n"
+"\n"
+"{d2}: {d3}\n"
+"🕑 Yosh: {d4}\n"
+"📚 Texnologiya: {d5}\n"
+"🇺🇿 Telegram: @{us}\n"
+"📞 Aloqa: {d6}\n"
+"🌐 Hudud: {d7}   \n"
+"💰 Narxi: {d8}\n"
+"👨🏻‍💻 Kasbi: {d9}\n"
+"🕰 Murojaat qilish vaqti: {d10}\n"
+"🔎 Maqsad: {d11}\n"
+"\n"
+"#{d13}"
+msgstr ""
+
+#: handlers/user_handlers.py:73
+msgid "Tilni tanlang: "
+msgstr ""
+
+#: handlers/user_handlers.py:81
+msgid "Til tanlandi"
+msgstr ""
+
+#: handlers/user_handlers.py:83
+msgid ""
+"\n"
+"    Assalom alaykum {fullname}\n"
+"    UstozShogird kanalining rasmiy botiga xush kelibsiz!\n"
+"\n"
+"\n"
+"    /help yordam buyrugi orqali nimalarga qodir ekanligimni bilib oling!"
+msgstr ""
+
+#: handlers/user_handlers.py:97
+msgid "👨‍💼 Xodim"
+msgstr ""
+
+#: handlers/user_handlers.py:99 handlers/user_handlers.py:118
+msgid "🏢 Idora"
+msgstr ""
+
+#: handlers/user_handlers.py:101
+msgid "🎓 Ustoz"
+msgstr ""
+
+#: handlers/user_handlers.py:103
+msgid "🎓 Shogird"
+msgstr ""
+
+#: handlers/user_handlers.py:105
+msgid "🏅 Sherik"
+msgstr ""
+
+#: handlers/user_handlers.py:112
+msgid ""
+"\n"
+"{headline}\n"
+"\n"
+"Hozir sizga birnecha savollar beriladi. \n"
+"Har biriga javob bering. \n"
+"Oxirida agar hammasi to`g`ri bo`lsa, HA tugmasini bosing va arizangiz "
+"Adminga yuboriladi."
+msgstr ""
+
+#: handlers/user_handlers.py:119
+msgid "Idora nomi?"
+msgstr ""
+
+#: handlers/user_handlers.py:121
+msgid "Ism, familiyangizni kiriting?"
+msgstr ""
+
+#: handlers/user_handlers.py:128
+msgid ""
+"\n"
+"🕑 Yosh: \n"
+"\n"
+"Yoshingizni kiriting?\n"
+"Masalan, 19"
+msgstr ""
+
+#: handlers/user_handlers.py:139
+msgid ""
+"\n"
+"📚 Texnologiya:\n"
+"\n"
+"Talab qilinadigan texnologiyalarni kiriting?\n"
+"Texnologiya nomlarini vergul bilan ajrating. Masalan, \n"
+"\n"
+"Java, C++, C#"
+msgstr ""
+
+#: handlers/user_handlers.py:152
+msgid ""
+"\n"
+"📞 Aloqa: \n"
+"\n"
+"Bog`lanish uchun raqamingizni kiriting?\n"
+"Masalan, +998 90 123 45 67"
+msgstr ""
+
+#: handlers/user_handlers.py:163
+msgid ""
+"\n"
+"🌐 Hudud: \n"
+"\n"
+"Qaysi hududdansiz?\n"
+"Viloyat nomi, Toshkent shahar yoki Respublikani kiriting."
+msgstr ""
+
+#: handlers/user_handlers.py:185
+msgid ""
+"\n"
+"💰 Narxi:\n"
+"\n"
+"Tolov qilasizmi yoki Tekinmi?\n"
+"Kerak bo`lsa, Summani kiriting?"
+msgstr ""
+
+#: handlers/user_handlers.py:196
+msgid ""
+"\n"
+"👨🏻‍💻 Kasbi: \n"
+"\n"
+"Ishlaysizmi yoki o`qiysizmi?\n"
+"Masalan, Talaba"
+msgstr ""
+
+#: handlers/user_handlers.py:207
+msgid ""
+"\n"
+"🕰 Murojaat qilish vaqti: \n"
+"\n"
+"Qaysi vaqtda murojaat qilish mumkin?\n"
+"Masalan, 9:00 - 18:00"
+msgstr ""
+
+#: handlers/user_handlers.py:218
+msgid ""
+"\n"
+"🔎 Maqsad: \n"
+"\n"
+"Maqsadingizni qisqacha yozib bering."
+msgstr ""
+
+#: handlers/user_handlers.py:232
+msgid "ha"
+msgstr ""
+
+#: handlers/user_handlers.py:233
+msgid "Yoq"
+msgstr ""
+
+#: handlers/user_handlers.py:234
+msgid "Barcha ma'lumotlar to'g'rimi?"
+msgstr ""
+
+#: handlers/user_handlers.py:241
+msgid "junatish"
+msgstr ""
+

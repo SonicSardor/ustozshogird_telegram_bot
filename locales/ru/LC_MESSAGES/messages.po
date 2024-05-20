@@ -1,0 +1,273 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-20 13:34+0500\n"
+"PO-Revision-Date: 2024-05-13 22:39+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: handlers/user_handlers.py:36 handlers/user_handlers.py:104
+msgid "Sherik kerak"
+msgstr "Нужен партнер"
+
+#: handlers/user_handlers.py:37 handlers/user_handlers.py:96
+msgid "Ish joyi kerak"
+msgstr "Нужна работа"
+
+#: handlers/user_handlers.py:38 handlers/user_handlers.py:98
+msgid "Xodim kerak"
+msgstr "Нужен рабочий"
+
+#: handlers/user_handlers.py:39 handlers/user_handlers.py:102
+msgid "Ustoz kerak"
+msgstr "Нужен учитель"
+
+#: handlers/user_handlers.py:40 handlers/user_handlers.py:100
+msgid "Shogird kerak"
+msgstr "Нужен ученик"
+
+#: handlers/user_handlers.py:48
+msgid ""
+"{d1}:\n"
+"\n"
+"{d2}: {d3}\n"
+"🕑 Yosh: {d4}\n"
+"📚 Texnologiya: {d5}\n"
+"🇺🇿 Telegram: @{us}\n"
+"📞 Aloqa: {d6}\n"
+"🌐 Hudud: {d7}   \n"
+"💰 Narxi: {d8}\n"
+"👨🏻‍💻 Kasbi: {d9}\n"
+"🕰 Murojaat qilish vaqti: {d10}\n"
+"🔎 Maqsad: {d11}\n"
+"\n"
+"#{d13}"
+msgstr ""
+"{d1}:\n"
+"\n"
+"{d2}: {d3}\n"
+"🕑 Возраст: {d4}\n"
+"📚 Технология: {d5}\n"
+"🇺🇿 Telegram: @{us}\n"
+"📞 Связь: {d6}\n"
+"🌐 Регион: {d7}   \n"
+"💰 Цена: {d8}\n"
+"👨🏻‍💻 Профессия: {d9}\n"
+"🕰 Время для связи: {d10}\n"
+"🔎 Цель: {d11}\n"
+"\n"
+"#{d13}"
+
+#: handlers/user_handlers.py:73
+msgid "Tilni tanlang: "
+msgstr "Выберите язык"
+
+#: handlers/user_handlers.py:81
+msgid "Til tanlandi"
+msgstr "Выберите язык"
+
+#: handlers/user_handlers.py:83
+msgid ""
+"\n"
+"    Assalom alaykum {fullname}\n"
+"    UstozShogird kanalining rasmiy botiga xush kelibsiz!\n"
+"\n"
+"\n"
+"    /help yordam buyrugi orqali nimalarga qodir ekanligimni bilib oling!"
+msgstr ""
+"\n"
+"Здраствуйте {fullname}\n"
+" Добро пожаловать на бот канала UstozShogird!\n"
+"\n"
+"\n"
+"с помошью кнопки /help познайте на что способен наш бот!"
+
+#: handlers/user_handlers.py:97
+msgid "👨‍💼 Xodim"
+msgstr "👨‍💼 Рабочий"
+
+#: handlers/user_handlers.py:99 handlers/user_handlers.py:118
+msgid "🏢 Idora"
+msgstr "🏢 Копмания"
+
+#: handlers/user_handlers.py:101
+msgid "🎓 Ustoz"
+msgstr "🎓 Учитель"
+
+#: handlers/user_handlers.py:103
+msgid "🎓 Shogird"
+msgstr "🎓 Ученик"
+
+#: handlers/user_handlers.py:105
+msgid "🏅 Sherik"
+msgstr "🏅 Партнер"
+
+#: handlers/user_handlers.py:112
+msgid ""
+"\n"
+"{headline}\n"
+"\n"
+"Hozir sizga birnecha savollar beriladi. \n"
+"Har biriga javob bering. \n"
+"Oxirida agar hammasi to`g`ri bo`lsa, HA tugmasini bosing va arizangiz "
+"Adminga yuboriladi."
+msgstr ""
+"\n"
+"{headline}\n"
+"\n"
+"Вам будут заданы несколько вопросов. \n"
+"Ответте на все вопросы. \n"
+"Если в коцне всё будет правильно нажмите на кноппу ДА и ваша анкета будет"
+" отправлена Администратору."
+
+#: handlers/user_handlers.py:119
+msgid "Idora nomi?"
+msgstr "Название компании"
+
+#: handlers/user_handlers.py:121
+msgid "Ism, familiyangizni kiriting?"
+msgstr "Введите имя, фамилию"
+
+#: handlers/user_handlers.py:128
+msgid ""
+"\n"
+"🕑 Yosh: \n"
+"\n"
+"Yoshingizni kiriting?\n"
+"Masalan, 19"
+msgstr ""
+"\n"
+"🕑 Возраст: \n"
+"\n"
+"Введите возраст?\n"
+"Например: 19"
+
+#: handlers/user_handlers.py:139
+msgid ""
+"\n"
+"📚 Texnologiya:\n"
+"\n"
+"Talab qilinadigan texnologiyalarni kiriting?\n"
+"Texnologiya nomlarini vergul bilan ajrating. Masalan, \n"
+"\n"
+"Java, C++, C#"
+msgstr ""
+"\n"
+"📚 Технология:\n"
+"\n"
+"Введите требуемые технологии\n"
+"Разделите название технологий запятыми. Например, \n"
+"\n"
+"Java, C++, C#"
+
+#: handlers/user_handlers.py:152
+msgid ""
+"\n"
+"📞 Aloqa: \n"
+"\n"
+"Bog`lanish uchun raqamingizni kiriting?\n"
+"Masalan, +998 90 123 45 67"
+msgstr ""
+"\n"
+"📞 Связь: \n"
+"\n"
+"Номер для связи?\n"
+"Например: +998 90 123 45 67"
+
+#: handlers/user_handlers.py:163
+msgid ""
+"\n"
+"🌐 Hudud: \n"
+"\n"
+"Qaysi hududdansiz?\n"
+"Viloyat nomi, Toshkent shahar yoki Respublikani kiriting."
+msgstr ""
+"\n"
+"🌐 Регион: \n"
+"\n"
+"Какой регион?\n"
+"Введете область, город Ташкент или Республика ."
+
+#: handlers/user_handlers.py:185
+msgid ""
+"\n"
+"💰 Narxi:\n"
+"\n"
+"Tolov qilasizmi yoki Tekinmi?\n"
+"Kerak bo`lsa, Summani kiriting?"
+msgstr ""
+"\n"
+"💰 Цена:\n"
+"\n"
+"Оплачиваете или бесплатно?\n"
+"Если нужно введите сумму.?"
+
+#: handlers/user_handlers.py:196
+msgid ""
+"\n"
+"👨🏻‍💻 Kasbi: \n"
+"\n"
+"Ishlaysizmi yoki o`qiysizmi?\n"
+"Masalan, Talaba"
+msgstr ""
+"\n"
+"👨🏻‍💻 Профессия: \n"
+"\n"
+"Работаете или учитесь?\n"
+"Например: Студент"
+
+#: handlers/user_handlers.py:207
+msgid ""
+"\n"
+"🕰 Murojaat qilish vaqti: \n"
+"\n"
+"Qaysi vaqtda murojaat qilish mumkin?\n"
+"Masalan, 9:00 - 18:00"
+msgstr ""
+"\n"
+"🕰 Время для обрашений: \n"
+"\n"
+"Когда можно обращаться?\n"
+"Например, 9:00 - 18:00"
+
+#: handlers/user_handlers.py:218
+msgid ""
+"\n"
+"🔎 Maqsad: \n"
+"\n"
+"Maqsadingizni qisqacha yozib bering."
+msgstr ""
+"\n"
+"🔎 Цель: \n"
+"\n"
+"Напишите вашу цель."
+
+#: handlers/user_handlers.py:232
+msgid "ha"
+msgstr "да"
+
+#: handlers/user_handlers.py:233
+msgid "Yoq"
+msgstr "Нет"
+
+#: handlers/user_handlers.py:234
+msgid "Barcha ma'lumotlar to'g'rimi?"
+msgstr "Все данные верны?"
+
+#: handlers/user_handlers.py:241
+msgid "junatish"
+msgstr "Oтправить"
+
