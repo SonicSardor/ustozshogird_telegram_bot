@@ -1,11 +1,11 @@
 from aiogram import Bot, Router, F
 from aiogram.types import CallbackQuery
 
-from config import ADMINS_LIST
+from config import ADMINS_LIST, CHANNEL_ID
 
 admin = Router()
 ADMINS = ADMINS_LIST
-channel_id = -1002101565909
+channel_id = CHANNEL_ID
 
 
 @admin.callback_query(F.from_user.id.in_(ADMINS))
